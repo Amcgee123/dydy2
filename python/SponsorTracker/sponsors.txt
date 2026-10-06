@@ -4,3 +4,8 @@ Grandad,10.00
 Next door,5.00
 The chippy,25.00
 Mam's work,12.50
+3,3.00
+Amcgee,10.00
+Amcgee,10.00
+kye,200.00
+amcgee,200.00

@@ -40,7 +40,22 @@ def ask_name(prompt):
 
 # Asks for an amount in pounds, and gives it back.
 def ask_amount(prompt):
-    text = input(prompt).strip()
+    check = False
+    
+    while check == False: 
+        text = input(prompt).strip()
+        if text == "":
+            print ("please enter a number1-500") 
+        elif text[0] == "£" or text[0] == "$" :
+            text = text[1:]
+            check =True
+        elif text[0] == "-":
+            print("please enter a posative number")
+        else:
+            check = True
+    check_1 = False
+
+
     return float(text)
 
 
@@ -49,7 +64,7 @@ def total_raised(sponsors):
     total = 0
     for name, amount in sponsors:
         total = total + amount
-        return total
+    return total
 
 
 # The total as a percentage of the target, to the nearest whole number.
