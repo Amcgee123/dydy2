@@ -1,0 +1,6 @@
+Mam,20.00
+Nana,10.00
+Grandad,10.00
+Next door,5.00
+The chippy,25.00
+Mam's work,12.50

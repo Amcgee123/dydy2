@@ -1,0 +1,6 @@
+Milk,10
+Bread,4
+Crisps,22
+Apples,35
+apples,4
+fortnie vbuck card,50

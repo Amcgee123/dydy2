@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>disable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>AreaCalculator</RootNamespace>
+    <!-- Runs on a newer .NET if .NET 8 itself is not installed. If it will not build, change net8.0-windows to net10.0-windows above. -->
+    <RollForward>LatestMajor</RollForward>
+  </PropertyGroup>
+
+</Project>

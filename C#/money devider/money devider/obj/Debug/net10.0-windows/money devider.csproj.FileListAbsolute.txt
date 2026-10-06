@@ -1,0 +1,16 @@
+C:\Users\M2502074\source\repos\money devider\money devider\bin\Debug\net10.0-windows\money devider.exe
+C:\Users\M2502074\source\repos\money devider\money devider\bin\Debug\net10.0-windows\money devider.deps.json
+C:\Users\M2502074\source\repos\money devider\money devider\bin\Debug\net10.0-windows\money devider.runtimeconfig.json
+C:\Users\M2502074\source\repos\money devider\money devider\bin\Debug\net10.0-windows\money devider.dll
+C:\Users\M2502074\source\repos\money devider\money devider\bin\Debug\net10.0-windows\money devider.pdb
+C:\Users\M2502074\source\repos\money devider\money devider\obj\Debug\net10.0-windows\money_devider.Form1.resources
+C:\Users\M2502074\source\repos\money devider\money devider\obj\Debug\net10.0-windows\money devider.csproj.GenerateResource.cache
+C:\Users\M2502074\source\repos\money devider\money devider\obj\Debug\net10.0-windows\money devider.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M2502074\source\repos\money devider\money devider\obj\Debug\net10.0-windows\money devider.AssemblyInfoInputs.cache
+C:\Users\M2502074\source\repos\money devider\money devider\obj\Debug\net10.0-windows\money devider.AssemblyInfo.cs
+C:\Users\M2502074\source\repos\money devider\money devider\obj\Debug\net10.0-windows\money devider.csproj.CoreCompileInputs.cache
+C:\Users\M2502074\source\repos\money devider\money devider\obj\Debug\net10.0-windows\money devider.dll
+C:\Users\M2502074\source\repos\money devider\money devider\obj\Debug\net10.0-windows\refint\money devider.dll
+C:\Users\M2502074\source\repos\money devider\money devider\obj\Debug\net10.0-windows\money devider.pdb
+C:\Users\M2502074\source\repos\money devider\money devider\obj\Debug\net10.0-windows\money devider.genruntimeconfig.cache
+C:\Users\M2502074\source\repos\money devider\money devider\obj\Debug\net10.0-windows\ref\money devider.dll
