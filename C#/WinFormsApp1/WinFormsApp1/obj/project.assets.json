@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\M2502074\\OneDrive - Middlesbrough College\\Documents\\programing\\C#\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+      "projectUniqueName": "C:\\Users\\M2502074\\OneDrive - Middlesbrough College\\Documents\\GitHub\\dydy2\\C#\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
       "projectName": "WinFormsApp1",
-      "projectPath": "C:\\Users\\M2502074\\OneDrive - Middlesbrough College\\Documents\\programing\\C#\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+      "projectPath": "C:\\Users\\M2502074\\OneDrive - Middlesbrough College\\Documents\\GitHub\\dydy2\\C#\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
       "packagesPath": "C:\\Users\\M2502074\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\M2502074\\OneDrive - Middlesbrough College\\Documents\\programing\\C#\\WinFormsApp1\\WinFormsApp1\\obj\\",
+      "outputPath": "C:\\Users\\M2502074\\OneDrive - Middlesbrough College\\Documents\\GitHub\\dydy2\\C#\\WinFormsApp1\\WinFormsApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
