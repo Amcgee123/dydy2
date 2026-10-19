@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LoopLab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4dd277d4b0f703a700df7de037a7290f7eb77f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("LoopLab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LoopLab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
