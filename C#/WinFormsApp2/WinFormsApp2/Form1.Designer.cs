@@ -38,6 +38,11 @@
             button8 = new Button();
             pictureBox1 = new PictureBox();
             pictureBox2 = new PictureBox();
+            player_two_select_bnt = new Button();
+            player_one_select_txt = new TextBox();
+            label1 = new Label();
+            player_two_select_txt = new TextBox();
+            player_two_select_btn = new Button();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
             SuspendLayout();
@@ -131,11 +136,61 @@
             pictureBox2.TabIndex = 9;
             pictureBox2.TabStop = false;
             // 
+            // player_two_select_bnt
+            // 
+            player_two_select_bnt.Location = new Point(63, 299);
+            player_two_select_bnt.Name = "player_two_select_bnt";
+            player_two_select_bnt.Size = new Size(24, 23);
+            player_two_select_bnt.TabIndex = 10;
+            player_two_select_bnt.Text = "button9";
+            player_two_select_bnt.UseVisualStyleBackColor = true;
+            player_two_select_bnt.Click += player_two_select_bnt_Click;
+            // 
+            // player_one_select_txt
+            // 
+            player_one_select_txt.Location = new Point(12, 300);
+            player_one_select_txt.Name = "player_one_select_txt";
+            player_one_select_txt.Size = new Size(45, 23);
+            player_one_select_txt.TabIndex = 11;
+            player_one_select_txt.TextChanged += player_one_select_txt_TextChanged;
+            // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.Location = new Point(12, 16);
+            label1.Name = "label1";
+            label1.Size = new Size(101, 15);
+            label1.TabIndex = 12;
+            label1.Text = "enter pokemon id";
+            // 
+            // player_two_select_txt
+            // 
+            player_two_select_txt.Location = new Point(611, 13);
+            player_two_select_txt.Name = "player_two_select_txt";
+            player_two_select_txt.Size = new Size(45, 23);
+            player_two_select_txt.TabIndex = 14;
+            player_two_select_txt.TextChanged += player_two_select_txt_TextChanged;
+            // 
+            // player_two_select_btn
+            // 
+            player_two_select_btn.Location = new Point(662, 12);
+            player_two_select_btn.Name = "player_two_select_btn";
+            player_two_select_btn.Size = new Size(24, 23);
+            player_two_select_btn.TabIndex = 13;
+            player_two_select_btn.Text = "button10";
+            player_two_select_btn.UseVisualStyleBackColor = true;
+            player_two_select_btn.Click += player_two_select_btn_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(player_two_select_txt);
+            Controls.Add(player_two_select_btn);
+            Controls.Add(label1);
+            Controls.Add(player_one_select_txt);
+            Controls.Add(player_two_select_bnt);
             Controls.Add(pictureBox2);
             Controls.Add(pictureBox1);
             Controls.Add(button5);
@@ -148,9 +203,11 @@
             Controls.Add(button1);
             Name = "Form1";
             Text = "Form1";
+            Load += Form1_Load;
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).EndInit();
             ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
@@ -165,5 +222,10 @@
         private Button button8;
         private PictureBox pictureBox1;
         private PictureBox pictureBox2;
+        private Button player_two_select_bnt;
+        private TextBox player_one_select_txt;
+        private Label label1;
+        private TextBox player_two_select_txt;
+        private Button player_two_select_btn;
     }
 }

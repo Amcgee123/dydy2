@@ -10,7 +10,7 @@ namespace WinFormsApp1
         private void button1_Click(object sender, EventArgs e)
         {
             // tekes lengh and width
-            double length = double.Parse(textBox1.Text); 
+            double length = double.Parse(textBox1.Text);
             double width = double.Parse(textBox2.Text);
 
             double area = length * width;
@@ -29,6 +29,11 @@ namespace WinFormsApp1
         }
 
         private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
         {
 
         }

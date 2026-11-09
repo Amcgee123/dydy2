@@ -15,3 +15,4 @@ C:\Users\M2502074\OneDrive - Middlesbrough College\Documents\programing2\Visual 
 C:\Users\M2502074\OneDrive - Middlesbrough College\Documents\programing2\Visual Studio 18\dydy2\C#\WinFormsApp2\WinFormsApp2\obj\Debug\net10.0-windows\WinFormsApp2.pdb
 C:\Users\M2502074\OneDrive - Middlesbrough College\Documents\programing2\Visual Studio 18\dydy2\C#\WinFormsApp2\WinFormsApp2\obj\Debug\net10.0-windows\WinFormsApp2.genruntimeconfig.cache
 C:\Users\M2502074\OneDrive - Middlesbrough College\Documents\programing2\Visual Studio 18\dydy2\C#\WinFormsApp2\WinFormsApp2\obj\Debug\net10.0-windows\ref\WinFormsApp2.dll
+C:\Users\M2502074\OneDrive - Middlesbrough College\Documents\programing2\Visual Studio 18\dydy2\C#\WinFormsApp2\WinFormsApp2\obj\Debug\net10.0-windows\WinFormsApp2.csproj.AssemblyReference.cache

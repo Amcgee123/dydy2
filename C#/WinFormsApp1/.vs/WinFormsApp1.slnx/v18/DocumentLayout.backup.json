@@ -1,7 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\M2502074\\OneDrive - Middlesbrough College\\Documents\\programing\\C#\\WinFormsApp1\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\M2502074\\OneDrive - Middlesbrough College\\Documents\\programing2\\Visual Studio 18\\dydy2\\C#\\WinFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\m2502074\\onedrive - middlesbrough college\\documents\\programing2\\visual studio 18\\dydy2\\c#\\winformsapp1\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\m2502074\\onedrive - middlesbrough college\\documents\\programing2\\visual studio 18\\dydy2\\c#\\winformsapp1\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC150CE2-BC7F-BB20-899B-A29BED553BB8}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\M2502074\\OneDrive - Middlesbrough College\\Documents\\programing2\\Visual Studio 18\\dydy2\\C#\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\M2502074\\OneDrive - Middlesbrough College\\Documents\\programing2\\Visual Studio 18\\dydy2\\C#\\WinFormsApp1\\WinFormsApp1\\Form1.cs*",
+              "RelativeToolTip": "WinFormsApp1\\Form1.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwCMAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T13:41:11.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\M2502074\\OneDrive - Middlesbrough College\\Documents\\programing2\\Visual Studio 18\\dydy2\\C#\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\M2502074\\OneDrive - Middlesbrough College\\Documents\\programing2\\Visual Studio 18\\dydy2\\C#\\WinFormsApp1\\WinFormsApp1\\Form1.cs [Design]*",
+              "RelativeToolTip": "WinFormsApp1\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T13:40:46.554Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

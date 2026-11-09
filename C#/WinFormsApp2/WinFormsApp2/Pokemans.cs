@@ -12,18 +12,16 @@ namespace WinFormsApp2
         public string type;
         public int level;
         public int hp;
-        public int energy;
-        public string pokeAttack;
+        public string attacks;
 
         // Constructor
-        public Pokemans(string name, string type, int level, int hp, int energy, string pokeAttack)
+        public Pokemans(string name, string type, int level, int hp, int energy, string attacks)
         {
             this.name = name;
             this.type = type;
             this.level = level;
             this.hp = hp;
-            this.energy = energy;
-            this.pokeAttack = pokeAttack;
+            this.attacks =attacks;
 
             Debug.WriteLine($"Pokemon {this.name} created with {this.type}");
 
@@ -33,7 +31,7 @@ namespace WinFormsApp2
         // Attack
         public void attack() 
         {
-            Debug.WriteLine($"Pokemon {this.name} with {this.pokeAttack}, attack number, attack damage");            
+            Debug.WriteLine($"Pokemon {this.name} with {this.attacks}, attack number, attack damage");            
         }
         // Dodge
         public void dodge()
