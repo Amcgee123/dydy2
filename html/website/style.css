@@ -1,0 +1,50 @@
+h1 {
+  background-color: navy;
+  color:white;
+  margin-left: 0rem;
+  margin-bottom: 0;
+  margin-top: 0;
+  padding: 1.25rem;
+}
+
+h2{
+  background-color: white;
+  color: black;
+  margin-left: 0rem;
+  margin-bottom: 0;
+  padding: 1.25rem;
+  padding-bottom: 0.1rem;
+}
+
+p{
+  background-color: white;
+  color: black;
+  margin-left: 0rem;
+  margin-top: 0;
+  padding: 1.25rem;
+  padding-top: 0.1rem;
+}
+
+body{
+  background-color: white;
+  color: black;
+  margin-left: 0rem;
+}
+ 
+nav {
+  background-color: navy;
+  color:white;
+  margin-left: 0rem;
+  margin-top: 0;
+  padding: 1.25rem;
+}
+
+main {
+  margin-left:0rem;
+  padding: 1.25rem;
+ }
+
+img{
+  max-width: 50%;
+  height:auto;
+}
