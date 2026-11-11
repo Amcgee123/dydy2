@@ -1,5 +1,5 @@
 h1 {
-  background-color: navy;
+  background-color: rgb(109, 0, 0);
   color:white;
   margin-left: 0rem;
   margin-bottom: 0;
@@ -7,24 +7,24 @@ h1 {
   padding: 1.25rem;
 }
 h2{
-  background-color: white;
-  color: black;
+  background-color:black;
+  color: white;
   margin-left: 0rem;
   margin-bottom: 0;
   padding: 1.25rem;
   padding-bottom: 0.1rem;
 }
 h2{
-  background-color: white;
-  color: black;
+  background-color: black;
+  color: white;
   margin-left: 0rem;
   margin-bottom: 0;
   padding: 1.25rem;
   padding-bottom: 0.1rem;
 }
 h3{
-  background-color: white;
-  color: black;
+  background-color: black;
+  color: white;
   margin-left: 1.25rem;
   margin-bottom: 0;
   padding: 1.25rem;
@@ -33,12 +33,12 @@ h3{
 a:hover,
 a:focus{
   color: blue;
-  background-color: green;
+  background-color: red;
 }
 
 h3{
-  background-color: white;
-  color: black;
+  background-color: black;
+  color: white;
   margin-left: 0rem;
   margin-bottom: 0;
   padding: 1.25rem;
@@ -46,8 +46,8 @@ h3{
 }
 
 p{
-  background-color: white;
-  color: black;
+  background-color: black;
+  color: white;
   margin-left: 0rem;
   margin-top: 0;
   padding: 1.25rem;
@@ -55,13 +55,13 @@ p{
 }
 
 body{
-  background-color: white;
-  color: black;
+  background-color: black;
+  color: white;
   margin-left: 0rem;
 }
  
 nav {
-  background-color: navy;
+  background-color: rgb(109, 0, 0);
   color:white;
   margin-left: 0rem;
   margin-top: 0;
@@ -83,7 +83,6 @@ img{
   gap: 1.5rem;
   margin-left: 1.25rem;
   padding:1.25rem
-
 }
 
 .card{
@@ -105,9 +104,11 @@ img{
   top: 10rem;
   left:1.25rem;
   font-size:3rem;
+  border: none;
+  cursor: pointer;
 }
 
 .top_left:hover,
-:focus{
+.top_left:focus{
 font-size: 4rem;
 }
