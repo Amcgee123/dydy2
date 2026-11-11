@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\M2502074\\OneDrive - Middlesbrough College\\Documents\\programing2\\Visual Studio 18\\dydy2\\C#\\WinFormsApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFED084E-4153-4AB1-BA01-84639FF5DC7E}|WinFormsApp2\\WinFormsApp2.csproj|c:\\users\\m2502074\\onedrive - middlesbrough college\\documents\\programing2\\visual studio 18\\dydy2\\c#\\winformsapp2\\winformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFED084E-4153-4AB1-BA01-84639FF5DC7E}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFED084E-4153-4AB1-BA01-84639FF5DC7E}|WinFormsApp2\\WinFormsApp2.csproj|c:\\users\\m2502074\\onedrive - middlesbrough college\\documents\\programing2\\visual studio 18\\dydy2\\c#\\winformsapp2\\winformsapp2\\pokemans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFED084E-4153-4AB1-BA01-84639FF5DC7E}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\pokemans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFED084E-4153-4AB1-BA01-84639FF5DC7E}|WinFormsApp2\\WinFormsApp2.csproj|c:\\users\\m2502074\\onedrive - middlesbrough college\\documents\\programing2\\visual studio 18\\dydy2\\c#\\winformsapp2\\winformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EFED084E-4153-4AB1-BA01-84639FF5DC7E}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\M2502074\\OneDrive - Middlesbrough College\\Documents\\programing2\\Visual Studio 18\\dydy2\\C#\\WinFormsApp2\\WinFormsApp2\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\Form1.cs",
+              "ToolTip": "C:\\Users\\M2502074\\OneDrive - Middlesbrough College\\Documents\\programing2\\Visual Studio 18\\dydy2\\C#\\WinFormsApp2\\WinFormsApp2\\Form1.cs",
+              "RelativeToolTip": "WinFormsApp2\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T15:29:11.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pokemans.cs",
+              "DocumentMoniker": "C:\\Users\\M2502074\\OneDrive - Middlesbrough College\\Documents\\programing2\\Visual Studio 18\\dydy2\\C#\\WinFormsApp2\\WinFormsApp2\\Pokemans.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\Pokemans.cs",
+              "ToolTip": "C:\\Users\\M2502074\\OneDrive - Middlesbrough College\\Documents\\programing2\\Visual Studio 18\\dydy2\\C#\\WinFormsApp2\\WinFormsApp2\\Pokemans.cs",
+              "RelativeToolTip": "WinFormsApp2\\Pokemans.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwDAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T13:54:09.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\M2502074\\OneDrive - Middlesbrough College\\Documents\\programing2\\Visual Studio 18\\dydy2\\C#\\WinFormsApp2\\WinFormsApp2\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\Form1.cs",
+              "ToolTip": "C:\\Users\\M2502074\\OneDrive - Middlesbrough College\\Documents\\programing2\\Visual Studio 18\\dydy2\\C#\\WinFormsApp2\\WinFormsApp2\\Form1.cs [Design]",
+              "RelativeToolTip": "WinFormsApp2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T13:51:10.153Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+h1 {
+  background-color: navy;
+  color:white;
+  margin-left: 0rem;
+  margin-bottom: 0;
+  margin-top: 0;
+  padding: 1.25rem;
+}
+
+a:hover,
+a:focus{
+  color: blue;
+  background-color: green;
+}
+
+h2{
+  background-color: white;
+  color: black;
+  margin-left: 0rem;
+  margin-bottom: 0;
+  padding: 1.25rem;
+  padding-bottom: 0.1rem;
+}
+
+p{
+  background-color: white;
+  color: black;
+  margin-left: 0rem;
+  margin-top: 0;
+  padding: 1.25rem;
+  padding-top: 0.1rem;
+}
+
+body{
+  background-color: white;
+  color: black;
+  margin-left: 0rem;
+}
+ 
+nav {
+  background-color: navy;
+  color:white;
+  margin-left: 0rem;
+  margin-top: 0;
+  padding: 1.25rem;
+}
+
+main {
+  margin-left:0rem;
+  padding: 1.25rem;
+ }
+
+img{
+  max-width: 50%;
+  height:auto;
+}
+.cards{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+}
+
+.card{
+  border: 5px solid red;
+  padding: 1.25rem;
+  width: 29%;           /* Can be any responsive or fixed size */
+  aspect-ratio: 1 / 1;  /* Forces the height to equal the width */
+}
