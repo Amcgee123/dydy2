@@ -108,7 +108,31 @@ img{
   cursor: pointer;
 }
 
-.top_left:hover,
-.top_left:focus{
-font-size: 4rem;
+.play_game{
+  color: white;
+  position: absolute;
+  top: 14rem;
+  left:1.25rem;
+  font-size:2.5rem;
+  border: none;
+  cursor: pointer;
 }
+
+.credits{
+  color: white;
+  position: absolute;
+  top: 18rem;
+  left:1.25rem;
+  font-size:2.5rem;
+  border: none;
+  cursor: pointer;
+}
+
+.play_game:hover,
+.play_game:focus,
+.credits:hover,
+.credits:focus{
+font-size: 3rem;
+}
+
+
