@@ -1,0 +1,138 @@
+h1 {
+  background-color: rgb(109, 0, 0);
+  color:white;
+  margin-left: 0rem;
+  margin-bottom: 0;
+  margin-top: 0;
+  padding: 1.25rem;
+}
+h2{
+  background-color:black;
+  color: white;
+  margin-left: 0rem;
+  margin-bottom: 0;
+  padding: 1.25rem;
+  padding-bottom: 0.1rem;
+}
+h2{
+  background-color: black;
+  color: white;
+  margin-left: 0rem;
+  margin-bottom: 0;
+  padding: 1.25rem;
+  padding-bottom: 0.1rem;
+}
+h3{
+  background-color: black;
+  color: white;
+  margin-left: 1.25rem;
+  margin-bottom: 0;
+  padding: 1.25rem;
+
+}
+a:hover,
+a:focus{
+  color: blue;
+  background-color: red;
+}
+
+h3{
+  background-color: black;
+  color: white;
+  margin-left: 0rem;
+  margin-bottom: 0;
+  padding: 1.25rem;
+
+}
+
+p{
+  background-color: black;
+  color: white;
+  margin-left: 0rem;
+  margin-top: 0;
+  padding: 1.25rem;
+  padding-top: 0.1rem;
+}
+
+body{
+  background-color: black;
+  color: white;
+  margin-left: 0rem;
+}
+ 
+nav {
+  background-color: rgb(109, 0, 0);
+  color:white;
+  margin-left: 0rem;
+  margin-top: 0;
+  padding: 1.25rem;
+}
+
+main {
+  margin-left:0rem;
+  padding: 1.25rem;
+ }
+
+img{
+  max-width: 50%;
+  height:auto;
+}
+.cards{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  margin-left: 1.25rem;
+  padding:1.25rem
+}
+
+.card{
+  border: 5px solid red;
+  padding: 1.25;
+  width: 29%;           /* Can be any responsive or fixed size */
+  aspect-ratio: 1 / 1;  /* Forces the height to equal the width */
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.top_left{
+  color: white;
+  position: absolute;
+  top: 10rem;
+  left:1.25rem;
+  font-size:3rem;
+  border: none;
+  cursor: pointer;
+}
+
+.play_game{
+  color: white;
+  position: absolute;
+  top: 14rem;
+  left:1.25rem;
+  font-size:2.5rem;
+  border: none;
+  cursor: pointer;
+}
+
+.credits{
+  color: white;
+  position: absolute;
+  top: 18rem;
+  left:1.25rem;
+  font-size:2.5rem;
+  border: none;
+  cursor: pointer;
+}
+
+.play_game:hover,
+.play_game:focus,
+.credits:hover,
+.credits:focus{
+font-size: 3rem;
+}
+
+
