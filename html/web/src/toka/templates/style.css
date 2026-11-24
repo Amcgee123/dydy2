@@ -1,0 +1,42 @@
+body{
+    margin:0;
+    border:0;
+}
+
+head{
+    border: 0;
+    margin: 0;
+    color: black;
+}
+
+h1
+{
+    margin: 0;
+    border: 5rem;
+    background-color: black;
+    color: white;
+
+}
+
+nav{
+    margin: 0;
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    justify-content: right;
+    align-items: right;
+    
+}
+
+a{
+    size: 5rem;
+}
+
+a:hover,
+a:focus
+{
+    cursor: pointer;
+    color: aqua;
+}
