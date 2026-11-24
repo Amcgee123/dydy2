@@ -1,0 +1,137 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Toka Fitness - Sign Up</title>
+
+    <style>
+        body {
+            margin: 0;
+            background-color: white;
+            font-family: Arial, sans-serif;
+        }
+
+        .logo {
+            position: absolute;
+            top: 15px;
+            left: 20px;
+            font-size: 36px;
+            color: black;
+        }
+
+        .signup-container {
+            background-color: black;
+            width: 400px;
+            max-width: 85%;
+            padding: 40px;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            text-align: center;
+        }
+
+        h2 {
+            color: white;
+            font-size: 28px;
+        }
+
+        input {
+            width: 100%;
+            padding: 15px;
+            margin: 12px 0;
+            border: none;
+            font-size: 16px;
+            box-sizing: border-box;
+        }
+
+        button {
+            width: 100%;
+            padding: 15px;
+            margin-top: 20px;
+            border: none;
+            background-color: white;
+            color: black;
+            font-size: 16px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: grey;
+            color: white;
+        }
+
+        .message {
+            color: white;
+            margin-top: 20px;
+        }
+
+        a {
+            display: block;
+            margin-top: 20px;
+            color: white;
+        }
+
+    </style>
+</head>
+
+<body>
+
+    <div class="logo">Toka Fitness</div>
+
+    <div class="signup-container">
+
+        <h2>Create Account</h2>
+
+        <form id="signupForm">
+
+            <input
+                type="text"
+                id="username"
+                placeholder="Username"
+                required
+            >
+
+            <input
+                type="email"
+                id="email"
+                placeholder="Email address"
+                required
+            >
+
+            <input
+                type="password"
+                id="password"
+                placeholder="Password (minimum 6 characters)"
+                minlength="6"
+                required
+            >
+
+            <input
+                type="password"
+                id="confirmPassword"
+                placeholder="Re-enter passwrod"
+                minlength="6"
+                required
+            >
+
+            <button type="submit">
+                Create Account
+            </button>
+
+        </form>
+
+        <p class="message" id="message"></p>
+
+        <a href="login.html">
+            Already have an account? Login
+        </a>
+
+    </div>
+
+    <script src="auth.js"></script>
+
+</body>
+</html>

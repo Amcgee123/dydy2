@@ -1,0 +1,132 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Toka Fitness - Login</title>
+
+    <style>
+        body {
+            margin: 0;
+            background-color: white;
+            font-family: Arial, sans-serif;
+        }
+
+        .logo {
+            position: absolute;
+            top: 15px;
+            left: 20px;
+            font-size: 36px;
+            color: black;
+        }
+
+        .login-container {
+            background-color: black;
+            width: 400px;
+            max-width: 85%;
+            padding: 40px;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            text-align: center;
+        }
+
+        h2 {
+            color: white;
+            font-size: 28px;
+        }
+
+        input {
+            width: 100%;
+            padding: 15px;
+            margin: 12px 0;
+            border: none;
+            box-sizing: border-box;
+            font-size: 16px;
+        }
+
+        .buttons {
+            display: flex;
+            gap: 15px;
+            margin-top: 25px;
+        }
+
+        .action-button {
+            flex: 1;
+            padding: 14px;
+            border: none;
+            background-color: white;
+            color: black;
+            font-size: 16px;
+            cursor: pointer;
+        }
+
+        .button:hover {
+            background-color: grey;
+        }
+
+        .message {
+            color: white;
+            margin-top: 20px;
+        }
+
+        .signup-link {
+            display: block;
+            margin-top: 25px;
+            color: white;
+        }
+
+    </style>
+</head>
+
+<body>
+
+    <div class="logo">Toka Fitness</div>
+
+    <div class="login-container">
+
+        <h2>Login</h2>
+
+        <form id="loginForm">
+
+            <input
+                type="text"
+                id="username"
+                placeholder="Username"
+                required
+            >
+
+            <input
+                type="password"
+                id="password"
+                placeholder="Password"
+                required
+            >
+
+            <div class="buttons">
+
+                <button class="action-button" type="submit">
+                    Login
+                </button>
+
+                <a href="signup.html">
+                    <button class="action-button" type="button">
+                        Sign Up
+                    </button>
+                </a>
+
+            </div>
+
+        </form>
+
+        <p class="message" id="message"></p>
+
+    </div>
+
+    <script src="auth.js"></script>
+
+</body>
+</html>
