@@ -13,4 +13,20 @@ templates = Jinja2Templates(directory=str(folder / "templates"))
 
 @app.get("/", response_class=HTMLResponse)
 def root(request: Request):
-    return templates.TemplateResponse(request=request, name="index.html", context={"project_name": "Toka"})
+    return templates.TemplateResponse(request=request, name="Homescreen.html", context={"project_name": "Toka"})
+
+@app.get("/plans", response_class=HTMLResponse)
+def root(request: Request):
+    return templates.TemplateResponse(request=request, name="plans.html", context={"project_name": "Toka"})
+
+@app.get("/our_content", response_class=HTMLResponse)
+def root(request: Request):
+    return templates.TemplateResponse(request=request, name="Our_content.html", context={"project_name": "Toka"})
+
+@app.get("/social", response_class=HTMLResponse)
+def root(request: Request):
+    return templates.TemplateResponse(request=request, name="social.html", context={"project_name": "Toka"})
+
+@app.get("/account_page", response_class=HTMLResponse)
+def root(request: Request):
+    return templates.TemplateResponse(request=request, name="our_content.html", context={"project_name": "Toka"})
