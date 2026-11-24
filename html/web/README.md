@@ -1,0 +1,1 @@
+use python -m uvicorn toka.main:app --reload --app-dir src to run
