@@ -1,0 +1,19 @@
+﻿{
+    "version":  "0.2.0",
+    "configurations":  [
+                           {
+                               "request":  "launch",
+                               "console":  "integratedTerminal",
+                               "name":  "FastAPI: dev",
+                               "cwd":  "${workspaceFolder}",
+                               "type":  "debugpy",
+                               "jinja":  true,
+                               "module":  "fastapi",
+                               "args":  [
+                                            "dev",
+                                            "src/toka/main.py"
+                                        ],
+                               "python":  "${workspaceFolder}/.venv/Scripts/python.exe"
+                           }
+                       ]
+}
